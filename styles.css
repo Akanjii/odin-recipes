@@ -7,11 +7,13 @@ body{
 
 .recipe-links{
   list-style-type: none;
+  padding: 0;
 }
 .ingredient-list{
   list-style-type: none;
+  padding: 0;
 }
 .step-list{
   list-style-type: none;
-  text-align: center;
+  padding: 0;
 }
