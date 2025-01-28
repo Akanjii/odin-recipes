@@ -1,0 +1,17 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  color: brown;
+  background-color: bisque;
+  text-align: center;
+}
+
+.recipe-links{
+  list-style-type: none;
+}
+.ingredient-list{
+  list-style-type: none;
+}
+.step-list{
+  list-style-type: none;
+  text-align: center;
+}
