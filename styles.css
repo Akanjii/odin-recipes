@@ -17,3 +17,8 @@ body{
   list-style-type: none;
   padding: 0;
 }
+
+.food-image{
+  width: 400px;
+  height: auto;
+}
